@@ -1,5 +1,3 @@
-Testing ReduxDevTools
-
 Provider
 
 Create Folder Structure for Redux
